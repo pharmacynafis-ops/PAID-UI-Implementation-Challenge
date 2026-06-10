@@ -3,10 +3,12 @@
 
 <h2>📁 الملفات المتاحة:</h2>
 
-- welcome_stitch.html (reference design)
+- landing_stitch.html (reference design)
 - login_stitch.html (reference design)
-- logo.webp
-- welcome_task.html (target file)
+- logo.jpg
+- landing_task.html (target file)
+- landing_task.js (target file)
+- login_task.html (target file)
 - login_task.html (target file)
 
 <h2>🎯 المطلوب:</h2>
@@ -16,11 +18,14 @@
 - نفس layout, spacing, typography
 - تحسين بسيط في clean code structure (اختياري لكن مفضل)
 - الحفاظ على نفس UX flow بدون تغيير في الفكرة
+- تغيير ملفات target.js لتحتوي الانيميشن الجديد مع الابقاء على ال Navigation كما هو بدون تغيير
 
 📌 المطلوب تسليمه:
-- welcome.html (final output)
+- landing.html (final output)
 - login.html (final output)
-- logo.webp (unchanged or optimized if needed)
+- logo.jpg (unchanged or optimized if needed)
+- login.js
+- landing.js
 
 <h2>🧠 تقييم الفوز سيكون بناءً على:</h2>
 
